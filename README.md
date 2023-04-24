@@ -1,5 +1,6 @@
 # SQL Joins
 
+<img width="985" alt="Screen Shot 2023-04-23 at 10 06 25 PM" src="https://user-images.githubusercontent.com/115671653/233883678-a01b5875-cab1-49bf-bd38-2b6972973259.png">
 ### Part 1
 
 Finish Regifter, if you haven't
@@ -23,3 +24,4 @@ Rate your comfort and choose the matching activity
 - Which resource did you choose to use?
 
 - What are three things you learned during this lab?
+
